@@ -30,7 +30,10 @@ AI Learning Assistant is an interactive platform that helps users quickly learn 
    Enter new topics as needed to expand your knowledge library.
 
 ## Example
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e95168d3-44af-4c81-81de-8a8b310d163d" />
+<img width="886" height="362" alt="{632D2B7D-A5D8-48D7-942B-D617BB008B60}" src="https://github.com/user-attachments/assets/9658d6be-fc5e-49a4-9389-13e1359cc189" />
+
+<img width="892" height="467" alt="{21A0A9DF-7ED9-4DC2-A64C-4B1E861F3F01}" src="https://github.com/user-attachments/assets/68c4b789-0453-4fe1-9a74-582c01c144b5" />
+
 
 - Topic Entered: `Agentic AI`
 - Output:
